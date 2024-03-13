@@ -1,0 +1,11 @@
+[book]
+authors = ["kukabi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Principles in Action: Helikon Polkadot Governance Archive"
+
+[preprocessor.external-links]
+
+[output.html]
+additional-css = ["src/style/style.css"]
