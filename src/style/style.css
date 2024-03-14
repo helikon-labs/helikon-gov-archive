@@ -20,3 +20,7 @@ span.positive { color: green; }
 span.negative { color: red; }
 span.ongoing { color: blue; }
 span.neutral { color: gray; }
+
+hr {
+    height: 1px;
+}
