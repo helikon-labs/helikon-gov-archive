@@ -5,7 +5,12 @@ multilingual = false
 src = "src"
 title = "Principles in Action: Helikon Polkadot Governance Archive"
 
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
+
 [preprocessor.external-links]
 
 [output.html]
 additional-css = ["src/style/style.css"]
+git-repository-url = "https://github.com/helikon-labs/helikon-gov-archive"

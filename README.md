@@ -10,6 +10,7 @@ Assuming you have Rust [installed](https://www.rust-lang.org/tools/install):
 ```
 cargo install mdbook
 cargo install mdbook-external-links
+cargo install mdbook-last-changed
 git clone https://github.com/helikon-labs/helikon-gov-archive.git
 cd helikon-gov-archive
 mdbook serve --open

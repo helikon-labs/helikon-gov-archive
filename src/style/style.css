@@ -24,3 +24,9 @@ span.neutral { color: gray; }
 hr {
     height: 1px;
 }
+
+footer {
+    font-size: 0.9em;
+    margin-top: 48px;
+    font-style: italic;
+}
