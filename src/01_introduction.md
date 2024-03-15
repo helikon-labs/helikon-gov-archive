@@ -6,6 +6,8 @@ of [Helikon](https://helikon.io), as delegated by the [W3F](https://web3.foundat
 Please find [here](https://forum.polkadot.network/t/decentralized-voices-program-kutsal-kukabi-helikon/6106) the
 original DV application dated February 10th, 2024.
 
+This site is a work in progress, updated daily.
+
 ### Guiding Principles
 
 #### Values
