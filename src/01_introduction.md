@@ -28,19 +28,19 @@ This site is a work in progress, updated daily.
 ### Votes Summary
 
 <div class="vote-summary">
-    <div class="positive" style="width: 28.07%"></div>
-    <div class="negative" style="width: 50.87%"></div>
-    <div class="neutral" style="width: 21.05%"></div>
+    <div class="positive" style="width: 30.50%"></div>
+    <div class="negative" style="width: 49.15%"></div>
+    <div class="neutral" style="width: 20.33%"></div>
 </div>
 
 <br/>
 
 |                                            |                                  |
 |:-------------------------------------------|:---------------------------------|
-| <strong>Number of Proposals Voted</strong> | 66                               |
+| <strong>Number of Proposals Voted</strong> | 68                               |
 | <strong>Erroneous Proposals</strong>       | 9                                |
-| <strong>Valid Proposals</strong>           | 57                               |
-| <strong>Aye</strong>                       | <span class="positive">16</span> |
+| <strong>Valid Proposals</strong>           | 59                               |
+| <strong>Aye</strong>                       | <span class="positive">18</span> |
 | <strong>Naye</strong>                      | <span class="negative">29</span> |
 | <strong>Abstain</strong>                   | <span class="neutral">12</span>  |
 
