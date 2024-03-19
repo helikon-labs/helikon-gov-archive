@@ -12,13 +12,13 @@
 
 <br/>
 
-|                            |                                                                    |
-|:---------------------------|:-------------------------------------------------------------------|
-| <strong>Number</strong>    | [553](https://polkadot.subsquare.io/referenda/553)                 |
-| <strong>Title</strong>     | Paseo Testnet - Curator submission                                 |
-| <strong>Proponent</strong> | [Birdo 🐥](https://polkadot.polkassembly.io/user/birdo)            |
-| <strong>Vote</strong>      | No Vote                                                            |
-| <strong>Comments</strong>  | I abstained from voting on this proposal due to my IBP membership. |
+|                            |                                                                                                                                                                                                          |
+|:---------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <strong>Number</strong>    | [553](https://polkadot.polkassembly.io/referenda/553)                                                                                                                                                    |
+| <strong>Title</strong>     | Paseo Testnet - Curator submission                                                                                                                                                                       |
+| <strong>Proponent</strong> | [Birdo 🐥](https://polkadot.polkassembly.io/user/birdo)                                                                                                                                                  |
+| <strong>Vote</strong>      | ⚪ Abstain                                                                                                                                                                                                |
+| <strong>Comments</strong>  | Hi,<br/><br/>I have to abstain due to my IBP membership and DV delegation.<br/><br/>Good luck!<br/>kukabi \| Helikon<br/<br/>[link](https://polkadot.polkassembly.io/referenda/553#6DG7H8WhjMMRjTBk6USn) |
 
 <br/>
 
